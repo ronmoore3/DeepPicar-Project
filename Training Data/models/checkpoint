@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Ronald\\Documents\\EECS_753\\DeepPicar\\DeepPicar-v2\\models\\DeepPicarModel_1.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Ronald\\Documents\\EECS_753\\DeepPicar\\DeepPicar-v2\\models\\DeepPicarModel_1.ckpt"
