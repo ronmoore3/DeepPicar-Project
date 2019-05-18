@@ -1,4 +1,4 @@
-Use the model marked "DeepPicarModel1.cpkt"
+Use the model marked "DeepPicarModel_1.cpkt"
 
 For training the model, please use the following training and validation splits:
 
